@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+BCA Graduate | Aspiring Data & AI Professional
+
+Currently focused on building practical solutions in Data Analytics, Python, SQL, and AI/ML. I work on real-world projects involving data processing, automation, APIs, and intelligent applications.
+
+Tech Stack: Python • SQL • Pandas • NumPy • Power BI • Streamlit • Git • GitHub • AI/ML
+
+Open to entry-level opportunities, collaborations, and projects where I can contribute, learn, and grow.
