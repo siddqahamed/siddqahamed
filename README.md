@@ -1,5 +1,5 @@
 # 💫 About Me:
-BCA Graduate | Aspiring Data & AI Professional<br><br>Currently focused on building practical solutions in Data Analytics, Python, MYSQL, and AI/ML. I work on real-world projects involving data processing, automation, APIs, and intelligent applications.<br><br>Tech Stack: Python • SQL • Pandas • NumPy • Power BI• Git • GitHub • AI/ML RAG Technology
+BCA Graduate | Aspiring Data & AI Professional<br><br>Currently focused on building practical solutions in Data Analytics, Python, MYSQL, and AI/ML. I work on real-world projects involving data processing, automation, APIs, ETL process and intelligent applications.<br><br>Tech Stack: Python • SQL • Pandas • NumPy • Power BI• Git • GitHub • AI/ML RAG Technology
 
 
 # 💻 Tech Stack:
